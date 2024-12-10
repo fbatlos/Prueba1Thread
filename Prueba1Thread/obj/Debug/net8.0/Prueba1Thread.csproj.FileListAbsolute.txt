@@ -1,0 +1,14 @@
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\bin\Debug\net8.0\Prueba1Thread.exe
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\bin\Debug\net8.0\Prueba1Thread.deps.json
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\bin\Debug\net8.0\Prueba1Thread.runtimeconfig.json
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\bin\Debug\net8.0\Prueba1Thread.dll
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\bin\Debug\net8.0\Prueba1Thread.pdb
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.AssemblyInfoInputs.cache
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.AssemblyInfo.cs
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.csproj.CoreCompileInputs.cache
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.dll
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\refint\Prueba1Thread.dll
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.pdb
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.genruntimeconfig.cache
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\ref\Prueba1Thread.dll
