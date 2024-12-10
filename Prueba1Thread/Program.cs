@@ -1,32 +1,46 @@
-﻿class ThreadTest 
-{ 
-    static void Main()  
-    { 
-        Thread t = new Thread (new ThreadStart (choseHand));
-        Thread t2 = new Thread (new ThreadStart (choseHand));
+﻿class ThreadTest
+{
+    public  String handT;
+    
  
-        t.Start();
-        t2.Start();
-       
-    } 
- 
-    static void choseHand() 
+    public void choseHand() 
     { 
         int handNumber = new Random().Next(1,4);
-        String hand = null;
         switch (handNumber)
         {
             case 1:
-                hand = "Piedra";
+                handT = "Piedra";
                 break;
             case 2 :
-                hand = "Papel";
+                handT = "Papel";
                 break;
             case 3 :
-                hand = "Tigeras";
+                handT = "Tijeras";
                 break;
         }
+    }
+    
+}
+
+class Game
+{
+    static void Main()  
+    { 
+        ThreadTest tTest = new ThreadTest();
+
+        Thread t = new Thread(tTest.choseHand);
         
-        Console.WriteLine(hand);
+        
+        int winsT = 0;
+        
+        
+        t.Start ();
+        t.Join();
+        
+        Console.WriteLine(tTest.handT);
+        
+        
+        
     } 
+    
 }

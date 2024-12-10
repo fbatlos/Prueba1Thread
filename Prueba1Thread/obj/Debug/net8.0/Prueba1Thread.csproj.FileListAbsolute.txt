@@ -12,3 +12,4 @@ C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\refint
 C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.pdb
 C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.genruntimeconfig.cache
 C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\ref\Prueba1Thread.dll
+C:\Users\pacob\RiderProjects\Prueba1Thread\Prueba1Thread\obj\Debug\net8.0\Prueba1Thread.sourcelink.json
